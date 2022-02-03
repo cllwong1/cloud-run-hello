@@ -9,4 +9,4 @@ It also contains the source code of a placeholder public container
 (`gcr.io/cloudrun/placeholder`)  used to create a placeholder revision when setting up 
 Continuous Deployment.
 
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/cllwong1/cloud-run-hello&cloudshell_image=gcr.io/cloudrun/button&shellonly=true)
